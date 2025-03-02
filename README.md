@@ -3,7 +3,8 @@
 
 ### Report Link :  https://app.powerbi.com/groups/me/reports/7041aeeb-0aaa-44b6-ba74-67f03288f01e/8095ba0c9ca51082c552?experience=power-bi
 
-### Project - In United States, there are many stores in which a survey was conducted based on students i.e.
+### Project 
+In United States, there are many stores in which a survey was conducted based on students i.e.
 how much they are spending on different kind of purchases like Video games, Indoor games, Toys,
 Books, Gadgets etc. In the data set (Student Survey), Store setting is the column that explains the Type
 of location in which the store is present. By using data set (Student Survey), try to extract the
